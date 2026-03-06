@@ -1,0 +1,24 @@
+# --- Part 1: Line Ending Normalization Cross-Platform Safety ---
+* text=auto
+
+# Ensure scripts work on their respective OS
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.sh  text eol=lf
+
+# --- Part 2: Git LFS Tracking Large/Binary Assets ---
+
+# Use LFS for binary USD and assets to keep the repo fast
+*.usd  filter=lfs diff=lfs merge=lfs -text
+*.usdc filter=lfs diff=lfs merge=lfs -text
+*.usdz filter=lfs diff=lfs merge=lfs -text
+*.mdl  filter=lfs diff=lfs merge=lfs -text
+
+# Textures
+*.png  filter=lfs diff=lfs merge=lfs -text
+*.jpg  filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.hdr  filter=lfs diff=lfs merge=lfs -text
+
+# Keep .usda as standard text so code diffs can be viewd
+*.usda text

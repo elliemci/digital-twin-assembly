@@ -1,0 +1,36 @@
+# --- Omniverse & Kit-App-Template Exclusions ---
+# All folders starting with _ are local _build, _compiler/ and _repo temp folders
+_*/
+# Specific Kit SDK/App artifacts
+/kit/
+/app/
+/kernel-update/
+PACKAGE-DEPS.yaml
+*.packman.xml.user
+deps/**/user.toml
+
+# Omniverse EULA breadcrumb
+/.omniverse_eula_accepted.txt
+
+# --- Python & General Dev ---
+*.py[cod]
+__pycache__/
+*.log
+
+# Streaming EventTrace
+*.etli
+
+# --- Editor & OS Specific ---
+# specific user setting 
+.vscode/settings.json
+# ignore the IntelliSense Precompiled Header cache regardless of where it appears in subfolder
+**/.vscode/ipch
+/.vs
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Project Specific ---
+# Ensure your README and project config stay tracked
+!README.md
+!repo.toml
