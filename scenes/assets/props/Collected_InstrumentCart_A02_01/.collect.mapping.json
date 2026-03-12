@@ -1,0 +1,173 @@
+{
+    "version": "1.0",
+    "file_records": [
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Metals/Aluminium_Brushed_A.mdl",
+            "source_hash": "e94e1b35f181c5bcd816252bdb916426b5cfd234",
+            "target_url": "./Materials/Base/Metals/Aluminium_Brushed_A.mdl",
+            "target_hash": "c4e0d9c7412823f900d190a932bf549cbeaeddbe"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Metals/AnodizedSteel_Orange_SemiGloss_A.mdl",
+            "source_hash": "0a6dbadd03d6548a50400da00315bd988fdcc822",
+            "target_url": "./Materials/Base/Metals/AnodizedSteel_Orange_SemiGloss_A.mdl",
+            "target_hash": "e3e5d252c2d824960e2c159adfa1a08de2d7d5a2"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Metals/Metal_Glossy_A.mdl",
+            "source_hash": "5bd7dbd6e8d1f06d9ec712ae9784d9f00a516367",
+            "target_url": "./Materials/Base/Metals/Metal_Glossy_A.mdl",
+            "target_hash": "282d71e915d582219af629525fe6906271e833a9"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Metals/Metal_Painted_White_Rough_A.mdl",
+            "source_hash": "950de07c9cc53295429425c9e2c173b6e4ca029c",
+            "target_url": "./Materials/Base/Metals/Metal_Painted_White_Rough_A.mdl",
+            "target_hash": "3d1c33d76a60051a636084ce99ec33b654495fd8"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Plastics/Plastic_Black_A.mdl",
+            "source_hash": "fedcc5baffe0d5a957060134c5c965e91cf90e79",
+            "target_url": "./Materials/Base/Plastics/Plastic_Black_A.mdl",
+            "target_hash": "4026f1848e921fe8acc0323929e6b5df73e5a1f8"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Rubber/Rubber_Black_Glossy_A.mdl",
+            "source_hash": "02dd2afdffffe74801b83385397474fbc0afd206",
+            "target_url": "./Materials/Base/Rubber/Rubber_Black_Glossy_A.mdl",
+            "target_hash": "0fc6e3d2283738119740559afbd4f92bce397981"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Wood/Wood_Pressed_A.mdl",
+            "source_hash": "31d9bb047d83165357c5c647324ebc1589e54d3a",
+            "target_url": "./Materials/Base/Wood/Wood_Pressed_A.mdl",
+            "target_hash": "f0b26b0ab9f16bd6182791ea0b7971500e8e5434"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Metals/Textures/T_AnodizedSteel_Orange_SemiGloss_A_Albedo.png",
+            "source_hash": "36f9fc8390c5d4998d4ff24b4ddb26a3914bb8d2",
+            "target_url": "./Materials/Base/Metals/Textures/T_AnodizedSteel_Orange_SemiGloss_A_Albedo.png",
+            "target_hash": "303ed30a818e14dcbd0f65483b5192dc087f414c"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Metals/Textures/T_Metal_Painted_White_Rough_A_Albedo.png",
+            "source_hash": "dc111412bd3c38f910ede6b78d84eee5b0c976e4",
+            "target_url": "./Materials/Base/Metals/Textures/T_Metal_Painted_White_Rough_A_Albedo.png",
+            "target_hash": "a740a0a3616bc62113716aa7ca6ea3545c9c3e4c"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Metals/Textures/T_Aluminium_Brushed_A1_Albedo.png",
+            "source_hash": "90d644c4041306c1f8c878397d8001a370ad710e",
+            "target_url": "./Materials/Base/Metals/Textures/T_Aluminium_Brushed_A1_Albedo.png",
+            "target_hash": "88b1e22b2fd65ad3af2ebc21193b5000c82255c7"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Rubber/Textures/T_Rubber_Black_Glossy_A_Albedo.png",
+            "source_hash": "6fbd47b14260b732d58a227aa6e6e70d403fcc4c",
+            "target_url": "./Materials/Base/Rubber/Textures/T_Rubber_Black_Glossy_A_Albedo.png",
+            "target_hash": "dede3263ee54802163e69156754c37b180b49a5c"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Wood/Textures/T_Wood_Pressed_A1_Albedo.png",
+            "source_hash": "e3b6f0bc1e6809c1d031613346c28ffce5fc0285",
+            "target_url": "./Materials/Base/Wood/Textures/T_Wood_Pressed_A1_Albedo.png",
+            "target_hash": "20c50057aff0640ee5df568880b6591e12a2b659"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Plastics/Textures/T_Plastic_Black_A_Albedo.png",
+            "source_hash": "1dff85ff4cff0e77da5aea71098cccd3f2c1cc29",
+            "target_url": "./Materials/Base/Plastics/Textures/T_Plastic_Black_A_Albedo.png",
+            "target_hash": "be4d14f4655a24142b3b2be4644507c04280b4ca"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Metals/Textures/T_Metal_Glossy_A_Albedo.png",
+            "source_hash": "7aa6b3c94ce7130314187420a77fc349f61df1ee",
+            "target_url": "./Materials/Base/Metals/Textures/T_Metal_Glossy_A_Albedo.png",
+            "target_hash": "7d61de3be591e82fe4187325cd12682fc14a5f7c"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Metals/Textures/T_AnodizedSteel_Orange_SemiGloss_A_Normal.png",
+            "source_hash": "f72d14f6052c7e0c36c05353f25145869e4c2072",
+            "target_url": "./Materials/Base/Metals/Textures/T_AnodizedSteel_Orange_SemiGloss_A_Normal.png",
+            "target_hash": "7d066bf35a029930bf2f275994f376461f35aa31"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Metals/Textures/T_Metal_Painted_White_Rough_A_Normal.png",
+            "source_hash": "9faade96ef30fd7f47025b2604b1406fcb7d128b",
+            "target_url": "./Materials/Base/Metals/Textures/T_Metal_Painted_White_Rough_A_Normal.png",
+            "target_hash": "7896ee6e423f9d078bd59c149d1f071a1fe01567"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Metals/Textures/T_Aluminium_Brushed_A1_Normal.png",
+            "source_hash": "616e79c7e238bec33806b5455c3af182131c7ffa",
+            "target_url": "./Materials/Base/Metals/Textures/T_Aluminium_Brushed_A1_Normal.png",
+            "target_hash": "662e18e4f886d243d420280548e4e5e4c0c266d1"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Rubber/Textures/T_Rubber_Black_Glossy_A_ORM.png",
+            "source_hash": "f1673c05ced7c5fb943f43d76acfc95fffc12f46",
+            "target_url": "./Materials/Base/Rubber/Textures/T_Rubber_Black_Glossy_A_ORM.png",
+            "target_hash": "4913b478c6845392bc4693baf93c6c52b35a1374"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Wood/Textures/T_Wood_Pressed_A1_Normal.png",
+            "source_hash": "a7eb4aa649977a297acfa102c947e1e595b41c60",
+            "target_url": "./Materials/Base/Wood/Textures/T_Wood_Pressed_A1_Normal.png",
+            "target_hash": "7550b707bcba69237f6f0875a2d49cbb73e7f4a2"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Plastics/Textures/T_Plastic_Black_A_ORM.png",
+            "source_hash": "0f85a3daf8dbf3ca207b12a7c0c28166a063aaf7",
+            "target_url": "./Materials/Base/Plastics/Textures/T_Plastic_Black_A_ORM.png",
+            "target_hash": "a7a14fca83d91544d559b27cad8b83ef24fc3a39"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Metals/Textures/T_Metal_Glossy_A_Normal.png",
+            "source_hash": "d21814feff414172fbba12eb3088138213fd52c5",
+            "target_url": "./Materials/Base/Metals/Textures/T_Metal_Glossy_A_Normal.png",
+            "target_hash": "4910b50a81dabd32c494e0ec7bba1d8bca2130f8"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Metals/Textures/T_AnodizedSteel_Orange_SemiGloss_A_ORM.png",
+            "source_hash": "08ddbaf65abcef4e0b7ce3733df48f4f73b8eec3",
+            "target_url": "./Materials/Base/Metals/Textures/T_AnodizedSteel_Orange_SemiGloss_A_ORM.png",
+            "target_hash": "832e4245af95c90c5224f5be50f75d60f9d694a3"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Metals/Textures/T_Metal_Painted_White_Rough_A_ORM.png",
+            "source_hash": "4c96f6abbf9cc34f9c2b0dfbe9ebbac2002f92ac",
+            "target_url": "./Materials/Base/Metals/Textures/T_Metal_Painted_White_Rough_A_ORM.png",
+            "target_hash": "6937f07ac9a80c5fcbca153749cafe42df53b013"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Metals/Textures/T_Aluminium_Brushed_A1_ORM.png",
+            "source_hash": "d4e5ab8bc8bb72a2400db046984909a2123f7209",
+            "target_url": "./Materials/Base/Metals/Textures/T_Aluminium_Brushed_A1_ORM.png",
+            "target_hash": "cc6ece291bd79b792399c839528bf3eeb12ad97c"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Rubber/Textures/T_Rubber_Black_Glossy_A_Normal.png",
+            "source_hash": "d53b458e8a0fa380ae51416094c009b767d8b66b",
+            "target_url": "./Materials/Base/Rubber/Textures/T_Rubber_Black_Glossy_A_Normal.png",
+            "target_hash": "18eec1991056a137f0510d4145df1d1b1a3bbdbb"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Wood/Textures/T_Wood_Pressed_A1_ORM.png",
+            "source_hash": "85287ebe4da768ad314e835e5c0350a61177ff29",
+            "target_url": "./Materials/Base/Wood/Textures/T_Wood_Pressed_A1_ORM.png",
+            "target_hash": "9670d9397712a7544639d31296d467013c58fdc5"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Plastics/Textures/T_Plastic_Black_A_Normal.png",
+            "source_hash": "22432ac3b617eb36b5ee214ffbc61cec70e64665",
+            "target_url": "./Materials/Base/Plastics/Textures/T_Plastic_Black_A_Normal.png",
+            "target_hash": "f57898f2e826ad6b6e61b6d4334d2b7692f4c8b9"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/DigitalTwin/Materials/Base/Metals/Textures/T_Metal_Glossy_A_ORM.png",
+            "source_hash": "e4ad78b4cf8e6951ac63437627eea0657dc768d4",
+            "target_url": "./Materials/Base/Metals/Textures/T_Metal_Glossy_A_ORM.png",
+            "target_hash": "8d49a7e4a00e62859036c2cb0435dbdabfdd6180"
+        }
+    ]
+}
