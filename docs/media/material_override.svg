@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="Helvetica,Arial,sans-serif" role="img" aria-label="Material library and override composed into N_02_PCB_Router">
+<rect width="900" height="340" fill="#ffffff"/>
+<text x="20" y="28" font-size="16" font-weight="bold" fill="#1a1a1a">Material composition on N_02_PCB_Router.usd</text>
+<defs><marker id="o" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#e07b00"/></marker><marker id="g" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#555"/></marker></defs>
+<g font-size="12" fill="#1a1a1a" text-anchor="middle">
+<rect x="300" y="60" width="300" height="90" rx="8" fill="#e8f0fe" stroke="#3b6fd4"/><text x="450" y="95" font-weight="bold" font-size="14">N_02_PCB_Router.usd</text><text x="450" y="118">machine asset (edited on purpose)</text><text x="450" y="136">binds materials on router metal parts</text>
+<rect x="30" y="220" width="300" height="80" rx="8" fill="#fff4e0" stroke="#e07b00"/><text x="180" y="250" font-weight="bold" font-size="14">MaterialLibrary.usd</text><text x="180" y="272">centralised materials</text><text x="180" y="288">at /World/MaterialLibrary</text>
+<rect x="570" y="220" width="300" height="80" rx="8" fill="#e8f6ec" stroke="#2f8f4e"/><text x="720" y="250" font-weight="bold" font-size="14">MaterialOverride.usd</text><text x="720" y="272">binds m_Metal_Blue_Paint</text><text x="720" y="288">to the router's metal parts</text>
+</g>
+<line x1="180" y1="218" x2="360" y2="152" stroke="#e07b00" stroke-width="2.5" marker-end="url(#o)"/>
+<text x="215" y="178" font-size="12" fill="#b35f00" font-weight="bold">reference</text>
+<line x1="720" y1="218" x2="540" y2="152" stroke="#555" stroke-width="2.5" marker-end="url(#g)"/>
+<text x="660" y="178" font-size="12" fill="#555" font-weight="bold">sublayer</text>
+<text x="450" y="205" font-size="12" text-anchor="middle" fill="#444">Mute the override sublayer to restore the original look.</text>
+<text x="20" y="325" font-size="11" fill="#666">Legend: orange = reference (course convention), grey = sublayer.</text>
+</svg>

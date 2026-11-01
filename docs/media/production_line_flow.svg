@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 250" font-family="Helvetica,Arial,sans-serif" role="img" aria-label="Production line PL_001 flow from N_01 to N_06, N_07 planned">
+<rect width="900" height="250" fill="#ffffff"/>
+<text x="20" y="28" font-size="16" font-weight="bold" fill="#1a1a1a">PL_001_ElectronicsAssembly - 450 units/hour</text>
+<defs><marker id="a" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#555"/></marker></defs>
+<g font-size="12" text-anchor="middle" fill="#1a1a1a">
+<rect x="20" y="70" width="115" height="80" rx="8" fill="#e8f0fe" stroke="#3b6fd4"/><text x="77" y="105" font-weight="bold">N_01</text><text x="77" y="125">PCB On Board</text>
+<rect x="160" y="70" width="115" height="80" rx="8" fill="#e8f0fe" stroke="#3b6fd4"/><text x="217" y="105" font-weight="bold">N_02</text><text x="217" y="125">PCB Router</text>
+<rect x="300" y="70" width="115" height="80" rx="8" fill="#e8f0fe" stroke="#3b6fd4"/><text x="357" y="105" font-weight="bold">N_03</text><text x="357" y="125">Feeder</text>
+<rect x="440" y="70" width="115" height="80" rx="8" fill="#e8f0fe" stroke="#3b6fd4"/><text x="497" y="105" font-weight="bold">N_04</text><text x="497" y="125">PCB Assembly</text>
+<rect x="580" y="70" width="115" height="80" rx="8" fill="#e8f0fe" stroke="#3b6fd4"/><text x="637" y="105" font-weight="bold">N_05</text><text x="637" y="125">Assembly</text>
+<rect x="720" y="70" width="115" height="80" rx="8" fill="#e8f0fe" stroke="#3b6fd4"/><text x="777" y="105" font-weight="bold">N_06</text><text x="777" y="125">Test</text>
+<rect x="720" y="180" width="115" height="50" rx="8" fill="#fff" stroke="#999" stroke-dasharray="5 4"/><text x="777" y="202" font-weight="bold" fill="#777">N_07 Laser Cutting</text><text x="777" y="219" fill="#777">TODO: not yet in line</text>
+</g>
+<g stroke="#555" stroke-width="2" marker-end="url(#a)"><line x1="136" y1="110" x2="158" y2="110"/><line x1="276" y1="110" x2="298" y2="110"/><line x1="416" y1="110" x2="438" y2="110"/><line x1="556" y1="110" x2="578" y2="110"/><line x1="696" y1="110" x2="718" y2="110"/></g>
+<text x="20" y="190" font-size="12" fill="#444">Each machine is a payload (blue) inside CL6_Line_Full.usd, so it can be unloaded on demand.</text>
+<text x="20" y="208" font-size="12" fill="#444">Machines run along +Y at x of about -120 cm; flow direction is N_01 to N_06.</text>
+</svg>
